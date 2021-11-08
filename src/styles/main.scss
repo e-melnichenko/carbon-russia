@@ -1,0 +1,17 @@
+@import 'variables';
+@import 'normalize.css/normalize.css';
+@import 'mixins';
+@import 'fonts';
+
+// vendor
+// @import '@splidejs/splide/dist/css/splide.min.css';
+
+@import 'base';
+
+@import 'common/*';
+
+@import 'blocks/*';
+
+@import 'body-mods';
+
+@import 'global-mods';
